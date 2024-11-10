@@ -3,7 +3,7 @@
 2. Developed a sentiment analysis pipeline, leveraging the YouTube Data API and Reddit API to extract captions of YouTube videos and 
    Reddit posts and classify the sentiment of videos and posts respectively.
 3. Implemented preprocessing techniques using the NLTK and VADER libraries.
-4. Applied transfer learning to a pre-trained BERT model for sentiment classification.
+4. Applied transfer learning to fine tune a pre-trained BERT transformer for sentiment classification.
 5. Designed and deployed a Streamlit-based web application enabling users to input YouTube channels or Reddit subreddits, and visualize
    sentiment analysis results in a specified date range.
  
